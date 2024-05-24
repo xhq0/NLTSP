@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/xhq/tvm_install/nltsp/build/CMakeFiles/project_libbacktrace"
+		},
+		{
+			"file" : "/home/xhq/tvm_install/nltsp/build/CMakeFiles/project_libbacktrace.rule"
+		},
+		{
+			"file" : "/home/xhq/tvm_install/nltsp/build/CMakeFiles/project_libbacktrace-complete.rule"
+		},
+		{
+			"file" : "/home/xhq/tvm_install/nltsp/build/libbacktrace/src/project_libbacktrace-stamp/project_libbacktrace-install.rule"
+		},
+		{
+			"file" : "/home/xhq/tvm_install/nltsp/build/libbacktrace/src/project_libbacktrace-stamp/project_libbacktrace-mkdir.rule"
+		},
+		{
+			"file" : "/home/xhq/tvm_install/nltsp/build/libbacktrace/src/project_libbacktrace-stamp/project_libbacktrace-download.rule"
+		},
+		{
+			"file" : "/home/xhq/tvm_install/nltsp/build/libbacktrace/src/project_libbacktrace-stamp/project_libbacktrace-update.rule"
+		},
+		{
+			"file" : "/home/xhq/tvm_install/nltsp/build/libbacktrace/src/project_libbacktrace-stamp/project_libbacktrace-patch.rule"
+		},
+		{
+			"file" : "/home/xhq/tvm_install/nltsp/build/libbacktrace/src/project_libbacktrace-stamp/project_libbacktrace-configure.rule"
+		},
+		{
+			"file" : "/home/xhq/tvm_install/nltsp/build/libbacktrace/src/project_libbacktrace-stamp/project_libbacktrace-build.rule"
+		},
+		{
+			"file" : "/home/xhq/tvm_install/nltsp/build/libbacktrace/src/project_libbacktrace-stamp/project_libbacktrace-checkout.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"project_libbacktrace"
+		],
+		"name" : "project_libbacktrace"
+	}
+}

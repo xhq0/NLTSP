@@ -1,0 +1,14 @@
+/home/xhq/tvm_install/nltsp/build/CMakeFiles/install/strip.dir
+/home/xhq/tvm_install/nltsp/build/CMakeFiles/intrinsics_gen.dir
+/home/xhq/tvm_install/nltsp/build/CMakeFiles/runtime.dir
+/home/xhq/tvm_install/nltsp/build/CMakeFiles/tvm_objs.dir
+/home/xhq/tvm_install/nltsp/build/CMakeFiles/tvm_runtime.dir
+/home/xhq/tvm_install/nltsp/build/CMakeFiles/tvm_runtime_objs.dir
+/home/xhq/tvm_install/nltsp/build/CMakeFiles/tvm.dir
+/home/xhq/tvm_install/nltsp/build/CMakeFiles/project_libbacktrace.dir
+/home/xhq/tvm_install/nltsp/build/CMakeFiles/cpptest.dir
+/home/xhq/tvm_install/nltsp/build/CMakeFiles/edit_cache.dir
+/home/xhq/tvm_install/nltsp/build/CMakeFiles/rebuild_cache.dir
+/home/xhq/tvm_install/nltsp/build/CMakeFiles/list_install_components.dir
+/home/xhq/tvm_install/nltsp/build/CMakeFiles/install.dir
+/home/xhq/tvm_install/nltsp/build/CMakeFiles/install/local.dir

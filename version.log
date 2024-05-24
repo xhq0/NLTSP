@@ -1,0 +1,70 @@
+user@hostname:~$ cat /etc/issue
+Ubuntu 20.04.3 LTS \n \l
+
+user@hostname:~$ llvm-config --version
+10.0.0
+user@hostname:~$ ll /usr/local/cuda  
+lrwxrwxrwx 1 root root 20 Aug 16  2023 /usr/local/cuda -> /usr/local/cuda-11.8/
+user@hostname:~$ python --version
+Python 3.8.19
+user@hostname:~$ pip list
+Package             Version
+------------------- -----------
+attr                0.3.2
+attrs               23.2.0
+certifi             2024.2.2
+cffi                1.16.0
+charset-normalizer  3.3.2
+cloudpickle         3.0.0
+contourpy           1.1.1
+cycler              0.12.1
+Cython              3.0.10
+decorator           5.1.1
+einops              0.8.0
+filelock            3.13.4
+fonttools           4.50.0
+fsspec              2024.3.1
+gluonnlp            0.10.0
+graphviz            0.8.4
+huggingface-hub     0.22.2
+idna                3.7
+importlib_resources 6.4.0
+iniconfig           2.0.0
+kiwisolver          1.4.5
+matplotlib          3.5.1
+mxnet               1.9.1
+numpy               1.19.3
+onnx                1.12.0
+opencv-python       4.9.0.80
+packaging           24.0
+pillow              10.2.0
+pip                 23.3.1
+pluggy              1.4.0
+protobuf            3.20.1
+psutil              5.9.8
+py                  1.11.0
+pycparser           2.22
+pyparsing           3.1.2
+pytest              7.1.1
+python-dateutil     2.9.0.post0
+PyYAML              6.0.1
+regex               2023.12.25
+requests            2.31.0
+safetensors         0.4.3
+scipy               1.7.3
+setuptools          68.2.2
+six                 1.16.0
+tokenizers          0.12.1
+tomli               2.0.1
+torch               1.8.0+cu111
+torchaudio          0.8.0
+torchvision         0.9.0+cu111
+tornado             6.4
+tqdm                4.66.2
+transformers        4.19.2
+typing_extensions   4.10.0
+urllib3             2.2.1
+vit-pytorch         0.21.1
+wheel               0.41.2
+xgboost             1.5.2
+zipp                3.18.1

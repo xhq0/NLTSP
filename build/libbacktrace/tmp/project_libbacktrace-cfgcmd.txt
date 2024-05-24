@@ -1,0 +1,1 @@
+cmd='/home/xhq/tvm_install/nltsp/cmake/libs/../../3rdparty/libbacktrace/configure;--prefix=/home/xhq/tvm_install/nltsp/build/libbacktrace;--with-pic'
